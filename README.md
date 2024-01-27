@@ -1,0 +1,5 @@
+- **lite server ;**
+- `npm start`
+---
+- **typescript compiler code;**
+- `tsc app.ts -w`
